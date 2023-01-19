@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @j-archives
-- 🧠  I'm learning java as of now and hoping to master it :)
-- 🌱 I’m still new to coding and I am commited to improving my knowledge and skills.
+- 👋 i’m @j-archives
+- 🧠  as of now i'm learning java!
+- 🌱 still new to coding and I am commited to improving my knowledge and skills.
 
 
 
