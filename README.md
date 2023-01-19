@@ -1,5 +1,5 @@
 - 👋 i’m @j-archives
-- 🧠  as of now i'm learning java!
+- 🧠 as of now i'm learning java!
 - 🌱 still new to coding and I am commited to improving my knowledge and skills.
 
 
