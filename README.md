@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @j-archives
-- 👀 I’m interested in learning html and python. 
+- 👀 I’m currently working on my personal java projects
 - 🌱 I’m still new to coding and I am commited to improving my knowledge and skills.
 
 
