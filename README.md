@@ -1,7 +1,7 @@
-- 👋 i’m @j-archives
+- 👩‍💻 i’m @j-archives
 - 🧠 as of now i'm learning java!
-- 🌱 still new to coding and I am commited to improving my knowledge and skills.
-
+- 🌱 still new to coding and I am commited to improving my knowledge and skills
+- 📓 i secretly like cars & books
 
 
 <!-- Socials -->
