@@ -1,3 +1,5 @@
+<p><img align="right" src="https://github.com/j-archives/j-archives/blob/main/bugs.gif" width="200" height="200" /></p>
+
 - 👩‍💻 i’m @j-archives
 - 🧠 as of now i'm learning java!
 - 🌱 still new to coding and I am commited to improving my knowledge and skills
@@ -7,9 +9,6 @@
 <!-- Socials: Github, Stackoverflow -->
       
 <p align="left"> <a href="https://www.github.com/j-archives" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://www.stackoverflow.com/users/21041330/j-files?tab=profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
-
-
-
 
 
 <b>My GitHub Stats</b>
