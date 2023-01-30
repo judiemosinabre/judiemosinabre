@@ -10,7 +10,7 @@
 <b>Connect with me!</b>
 <!-- Socials: Github, Stackoverflow -->
       
-<p align="left"> <a href="https://www.github.com/j-archives" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/></a><a href="https://www.stackoverflow.com/users/21041330/j-files?tab=profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"><a href="https://www.github.com/j-archives" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/></a><a href="https://www.stackoverflow.com/users/21041330/j-files?tab=profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 
 <b>My GitHub Stats</b>
