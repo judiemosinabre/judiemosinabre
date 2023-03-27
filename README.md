@@ -1,9 +1,13 @@
+˖⁺‧₊˚ ♡ ˚₊‧⁺˖˖⁺‧₊˚ ♡ ˚₊‧⁺˖˖⁺‧₊˚ ♡ ˚₊‧⁺˖˖⁺‧₊˚ ♡ ˚₊‧⁺˖˖⁺‧₊˚ ♡ ˚₊‧⁺˖˖⁺‧₊˚ ♡ ˚₊‧⁺˖˖⁺‧₊˚ ♡ ˚₊‧⁺˖˖⁺‧₊˚ ♡ ˚₊‧⁺˖˖⁺‧₊˚ ♡ ˚₊‧⁺˖˖⁺‧₊˚ ♡ ˚₊‧⁺˖˖⁺‧₊˚ ♡ ˚₊‧⁺˖˖⁺‧₊˚ ♡ ˚₊‧⁺˖˖⁺‧₊˚ ♡ ˚₊‧⁺˖˖⁺‧₊˚ ♡ ˚₊‧⁺˖
+
+
 <!--gif-->
 <p><img align="right" src="https://github.com/j-archives/j-archives/blob/main/nokia.gif" width="200" height="200" /></p>
 
 - 👩‍💻 i’m @j-archives
 - 🧠 as of now i'm learning java!
 - 📓 obsessed with notion
+
 
 <br>
 
