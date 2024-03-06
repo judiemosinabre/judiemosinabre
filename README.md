@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=j-archives.j-archives&"  />
 </div>
 
@@ -18,6 +18,17 @@
 <p align="left"><a href="https://www.github.com/j-archives" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/></a><a href="https://www.stackoverflow.com/users/21041330/j-files?tab=profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Skills
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
 
 <!--- 
 <p align="left">
@@ -30,6 +41,7 @@
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/j-archives"><img src="https://github-readme-streak-stats.herokuapp.com/?user=j-archives&stroke=000000&background=ffffff&ring=0f172a&fire=0f172a&currStreakNum=000000&currStreakLabel=0f172a&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true"/></a><a href="https://github.com/j-archives" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-archives&langs_count=10&title_color=0f172a&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 
 <!---
