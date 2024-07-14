@@ -9,6 +9,28 @@
 - As of now, I'm expanding my web development skills before diving into AI and Machine Learning.
 <br>
 
+### Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,py,mysql" />
+  </a>
+</p>
+
+### Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,notion,vscode" />
+  </a>
+</p>
+
+
+### Operating System
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+  </a>
+</p>
+
 
 ### My GitHub Stats
 
