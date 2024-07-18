@@ -33,7 +33,7 @@
 
 ## Badges
 <p align ="left">
-  <a href=><img src="https://github.com/j-archives/j-archives/blob/main/assets/badges/it-specialist-databases.png" alt="it-specialist-badge"</a>
+  <a href="https://github.com/j-archives/j-archives/blob/main/assets/badges/it-specialist-databases.png"><img src="https://github.com/j-archives/j-archives/blob/main/assets/badges/it-specialist-databases.png" alt="it-specialist-badge"</a>
 </p>
 
 
