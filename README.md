@@ -32,6 +32,9 @@
 </p>
 
 ## Badges
+<p align ="left">
+  <a href=><img src="https://github.com/j-archives/j-archives/blob/main/assets/badges/it-specialist-databases.png" alt="it-specialist-badge"</a>
+</p>
 
 
 ## My GitHub Stats
