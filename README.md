@@ -3,16 +3,16 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=j-archives.j-archives"/>
 </div>
 
-## About me
+# About me
 - Hi! I'm Judie
 - Currently a Machine Learning student at National University.
 - As of now, I'm expanding my web development skills before diving into AI and Machine Learning.
 <br>
 
-## Languages
+## Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,py,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,java,py,mysql" />
   </a>
 </p>
 
