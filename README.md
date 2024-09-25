@@ -3,6 +3,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=judiemosinabre.judiemosinabre"/>
 </div>
 
+<!-- Holopin Section -->
+[![An image of @judiemosinabre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/judiemosinabre)](https://holopin.io/@judiemosinabre)
+
 # About me
 - Hi! I'm Judie
 - Currently a Machine Learning student at National University.
