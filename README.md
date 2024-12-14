@@ -9,7 +9,7 @@
 # About me
 - Hi! I'm Judie
 - Currently a Machine Learning student at National University.
-- As of now, I'm expanding my web development skills before diving into AI and Machine Learning.
+- As of now, I'm learning Machine Learning and building projects that includes ML.
 <br>
 
 ## Tech Stack
