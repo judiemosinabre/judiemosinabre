@@ -48,8 +48,14 @@
 
 ## Badges
 <p align ="left">
-  <a href="https://github.com/j-archives/j-archives/blob/main/assets/badges/it-specialist-databases.png"><img src="https://github.com/j-archives/j-archives/blob/main/assets/badges/it-specialist-databases.png" alt="it-specialist-badge"</a>
+  <a href="https://www.credly.com/badges/e08dc444-84ef-4358-8d09-6f4ab822f13e/public_url">
+    <img src="https://github.com/user-attachments/assets/6b7f182c-ae91-4819-8dc5-7d4a6e95879f" alt="GitHub Foundations Badge" width="150px">
+  </a>
+  <a href="https://github.com/j-archives/j-archives/blob/main/assets/badges/it-specialist-databases.png">
+    <img src="https://github.com/j-archives/j-archives/blob/main/assets/badges/it-specialist-databases.png" alt="it-specialist-badge"
+  </a>
 </p>
+
 
 
 ## My GitHub Stats
