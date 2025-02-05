@@ -24,7 +24,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,sklearn,tensorflow,notion,vscode,github" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://numpy.org" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/> 
   </a>
   <a href="https://matplotlib.org/stable/index.html" target="_blank"> 
