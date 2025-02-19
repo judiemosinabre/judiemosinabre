@@ -7,11 +7,17 @@
 [![An image of @judiemosinabre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/judiemosinabre)](https://holopin.io/@judiemosinabre)
 
 # About me
-- Hi! I'm Judie
+###### Fun Facts
 - Currently a Machine Learning student at National University.
 - As of now, I'm learning Machine Learning and building projects that includes ML.
-<br>
 
+<br/>
+Hi! I'm Judie, a passionate developer creating innovative and accessible tech experiences. <br/>
+My photobooth app has 50K+ users, and I’ve built a growing TikTok community (4.5K+ followers, 190K+ likes), <br/>
+where I share my journey, insights, and resources to empower women in tech. I love making tech more inclusive, inspiring others to learn, and building creative projects that bring people together.
+<br/><br/>
+
+Outside of work, you’ll find me shopping, doing makeup, taking cute pics, and enjoying boba! ♡
 ## Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
