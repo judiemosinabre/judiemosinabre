@@ -17,7 +17,13 @@ My photobooth app has 150K+ users, and I’ve built a growing TikTok community (
 where I share my journey, insights, and resources to empower women in tech. I love making tech more inclusive, inspiring others to learn, and building creative projects that bring people together.
 <br/><br/>
 
-Outside of work, you’ll find me shopping, doing makeup, taking cute pics, and enjoying boba! ♡
+In my free time, I love learning new technologies, improving my coding skills, and exploring different creative projects.  
+But when I’m not in tech mode, you’ll find me shopping, doing makeup, taking cute pics, and enjoying boba! ♡  
+
+## Contact  
+If you'd like to discuss work opportunities or collaborations, you can reach me at:  
+✉️: judiemosinabre.work@gmail.com
+
 ## Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
