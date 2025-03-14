@@ -60,13 +60,13 @@ If you'd like to discuss work opportunities or collaborations, you can reach me 
 
 ## Badges
 <p align ="left">
-  <a href="https://www.credly.com/badges/e08dc444-84ef-4358-8d09-6f4ab822f13e/public_url">
+  <a href="https://www.credly.com/badges/e08dc444-84ef-4358-8d09-6f4ab822f13e/public_url" target="_blank">
     <img src="https://github.com/user-attachments/assets/6b7f182c-ae91-4819-8dc5-7d4a6e95879f" alt="GitHub Foundations Badge" width="150px">
   </a>
-  <a href="https://www.credly.com/badges/491bdc7b-cc96-4741-b819-517034172660/public_url">
+  <a href="https://www.credly.com/badges/491bdc7b-cc96-4741-b819-517034172660/public_url" target="_blank">
     <img src="https://images.credly.com/images/267a8b92-df48-41f1-9473-a0dae752310e/ITS-Badges_Software-Development_1200px.png" alt="IT Specialist Software Development Badge" width="150px">
   </a>
-  <a href="https://www.credly.com/badges/fa891df7-281b-440a-979c-f2fc5f3a1cb3/public_url">
+  <a href="https://www.credly.com/badges/fa891df7-281b-440a-979c-f2fc5f3a1cb3/public_url" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png" alt="IT Specialist Databases Badge" width="150px">
   </a>
 </p>
