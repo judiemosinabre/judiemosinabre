@@ -13,7 +13,7 @@
 
 <br/>
 Hi! I'm Judie, a passionate developer creating innovative and accessible tech experiences. <br/>
-My photobooth app has 150K+ users, and I’ve built a growing TikTok community (4.5K+ followers, 190K+ likes), <br/>
+My photobooth app has 1M+ users, and I’ve built a growing TikTok community (4.5K+ followers, 190K+ likes), <br/>
 where I share my journey, insights, and resources to empower women in tech. I love making tech more inclusive, inspiring others to learn, and building creative projects that bring people together.
 <br/><br/>
 
