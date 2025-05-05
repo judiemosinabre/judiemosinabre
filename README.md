@@ -38,6 +38,9 @@ If you'd like to discuss work opportunities or collaborations, you can reach me 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,sklearn,tensorflow,notion,vscode,github" />
   </a>
+  <a href="https://colab.research.google.com" target="_blank"> 
+    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="50" height="50"/> 
+  </a>
   <a href="https://numpy.org" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/> 
   </a>
