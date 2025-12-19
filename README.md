@@ -65,6 +65,9 @@ If you'd like to discuss work opportunities or collaborations, you can reach me 
 
 ## Badges
 <p align ="left">
+  <a href="https://www.datacamp.com/certificate/AIEDA0016109133521" target="_blank">
+    <img width="125" height="150" alt="certification-ai-engineer-for-developers-associate-badge" src="https://github.com/user-attachments/assets/2767df0b-a4b1-48da-9d8e-49f00ae3e703" />
+  </a>
   <a href="https://www.credly.com/badges/e08dc444-84ef-4358-8d09-6f4ab822f13e/public_url" target="_blank">
     <img src="https://github.com/user-attachments/assets/6b7f182c-ae91-4819-8dc5-7d4a6e95879f" alt="GitHub Foundations Badge" width="150px">
   </a>
